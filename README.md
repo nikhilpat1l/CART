@@ -1,7 +1,3 @@
-<img width="1366" height="768" alt="tool4" src="https://github.com/user-attachments/assets/8d4507f8-9e0e-4864-82fe-0763c9e747c3" />
-<img width="1364" height="768" alt="tool3" src="https://github.com/user-attachments/assets/78e674c2-b623-4ff4-bea7-6e91642f3a58" />
-<img width="1366" height="768" alt="tool2" src="https://github.com/user-attachments/assets/065b91c7-9def-4b38-a749-b9657a297ece" />
-<img width="1361" height="658" alt="tool1" src="https://github.com/user-attachments/assets/0174f90f-9fb3-463f-9350-490c6c43082d" />
 # CART
 You are looking at CART (Continuous Automated Red Teaming) – an autonomous, self‑healing framework that turns a plain‑text goal into a sequence of Kali Linux commands, executes them, and automatically recovers from failures without human intervention
 
@@ -99,3 +95,9 @@ Beautiful and debuggable – colorful logs, session persistence, and full transp
 
 In short: Give it a sentence, and it will own the network (the one you own).
 
+
+
+<img width="1366" height="768" alt="tool4" src="https://github.com/user-attachments/assets/8d4507f8-9e0e-4864-82fe-0763c9e747c3" />
+<img width="1364" height="768" alt="tool3" src="https://github.com/user-attachments/assets/78e674c2-b623-4ff4-bea7-6e91642f3a58" />
+<img width="1366" height="768" alt="tool2" src="https://github.com/user-attachments/assets/065b91c7-9def-4b38-a749-b9657a297ece" />
+<img width="1361" height="658" alt="tool1" src="https://github.com/user-attachments/assets/0174f90f-9fb3-463f-9350-490c6c43082d" />
